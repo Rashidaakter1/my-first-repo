@@ -1,0 +1,10 @@
+h1{
+    background-color: cadetblue;
+    border:5px solid crimson;
+    border-radius: 20px;
+}
+p{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: large;
+    color: darkblue;
+}
