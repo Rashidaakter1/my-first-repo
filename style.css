@@ -2,9 +2,20 @@ h1{
     background-color: cadetblue;
     border:5px solid crimson;
     border-radius: 20px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
 }
 p{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: large;
     color: darkblue;
+    border-top:5px dotted darkcyan;
+    padding: 30px;
+    text-align: justify;
+    margin: 40px;
+
+}
+.we{
+    image-orientation: flip;
+    margin: 40px;
 }
